@@ -32,7 +32,7 @@ def jump(height):
     move()
     turn_right()
     move_range(height)
-    height = 1;
+    height = 1
     turn_left()
     
     
