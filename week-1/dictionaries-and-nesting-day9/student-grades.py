@@ -17,9 +17,9 @@ for student in student_scores:
     
     if (score > 90):
         grade = "Outstanding" 
-    elif (score > 80 & score <= 90):
+    elif (score > 80):
         grade = "Exceeds Expectations"
-    elif (score > 70 & score <= 80):
+    elif (score > 70):
         grade = "Acceptable"
     
     student_grades[student] = grade
