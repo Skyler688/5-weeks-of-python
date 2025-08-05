@@ -1,6 +1,6 @@
 # python3 week-2/Coffee-machine-in-oop/main.py
 
-# Secret inputs are off to turn the coffie machine off, and report to get the machiens info.
+# Secret inputs are "off" to turn the coffie machine off, and "report" to get the machiens info.
 
 from menu import Menu
 from coffee_maker import CoffeeMaker
