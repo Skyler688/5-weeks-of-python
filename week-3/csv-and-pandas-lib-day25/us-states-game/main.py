@@ -1,5 +1,7 @@
 # python3 week-3/csv-and-pandas-lib-day25/us-states-game/main.py
 
+# To genrate the list of unanswerd states you must enter exit, otherwise the .csv will not be generated
+
 import turtle
 import pandas
 
