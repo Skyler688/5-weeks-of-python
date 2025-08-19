@@ -5,9 +5,9 @@ import datetime as dt
 import random
 from email.message import EmailMessage # had to use a alternate method to the lesson, was getting errors sending the raw string.
 
-sender = "mycodetesting86@gmail.com"
-app_pass = "lizacbnsikrjhqrs"
-receiver = "mycodetesting86@yahoo.com"
+sender = "placholder@gmail.com"
+app_pass = "app_password"
+receiver = "placholder86@yahoo.com"
 
 # Read the quotes file into a list
 with open("quotes.txt", "r") as file:

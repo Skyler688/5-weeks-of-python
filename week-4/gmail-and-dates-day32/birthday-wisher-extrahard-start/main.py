@@ -8,8 +8,8 @@ import datetime as dt
 import smtplib
 import random
 
-sender = "mycodetesting86@gmail.com"
-app_pass = "sfvzedzctdduuikp"
+sender = "placholder@gmail.com"
+app_pass = "app_password"
 
 birthdays = pandas.read_csv("birthdays.csv")
 # print(birthdays["name"][0])
